@@ -1,1 +1,3 @@
 config.ini
+/test
+/__pycache__
